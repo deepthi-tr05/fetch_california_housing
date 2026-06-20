@@ -1,5 +1,10 @@
 # 🏠 California Housing Explorer
 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20App-cyan?style=for-the-badge)](https://deepthi-tr05.github.io/fetch_california_housing/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/deepthi-tr05/fetch_california_housing)
+
+> **🌐 Live Demo:** [https://deepthi-tr05.github.io/fetch_california_housing/](https://deepthi-tr05.github.io/fetch_california_housing/)
+
 An interactive statistical analysis and visualization dashboard built with **React**, **Recharts**, and **Tailwind CSS**, powered by **Vite**. Explore the classic California Housing dataset (1990 Census) through rich, interactive charts and statistical tools.
 
 ---
@@ -27,7 +32,7 @@ An interactive statistical analysis and visualization dashboard built with **Rea
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/fetch_california_housing.git
+git clone https://github.com/deepthi-tr05/fetch_california_housing.git
 cd fetch_california_housing
 
 # Install dependencies
