@@ -3,7 +3,7 @@
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20App-cyan?style=for-the-badge)](https://deepthi-tr05.github.io/fetch_california_housing/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/deepthi-tr05/fetch_california_housing)
 
-> **🌐 Live Demo:** [https://deepthi-tr05.github.io/fetch_california_housing/](https://deepthi-tr05.github.io/fetch_california_housing/)
+> **🌐 Live Demo:** [Live Demo](https://fetch-california-housing-ml.vercel.app/)
 
 An interactive statistical analysis and visualization dashboard built with **React**, **Recharts**, and **Tailwind CSS**, powered by **Vite**. Explore the classic California Housing dataset (1990 Census) through rich, interactive charts and statistical tools.
 
