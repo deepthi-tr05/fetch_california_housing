@@ -5,7 +5,7 @@
 
 **🌐 Live Demo:**
 
-[Live Demo](https://fetch-california-housing-ml.vercel.app/)
+[View Live Demo](https://fetch-california-housing-ml.vercel.app/)
 
 An interactive statistical analysis and visualization dashboard built with **React**, **Recharts**, and **Tailwind CSS**, powered by **Vite**. Explore the classic California Housing dataset (1990 Census) through rich, interactive charts and statistical tools.
 
